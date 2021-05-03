@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @silvium76
-- 👀 I’m interested in Python, Django, MERN stack
+- 👀 I’m interested in Python, Django
 - 🌱 I’m currently learning all of the above
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
